@@ -1,0 +1,22 @@
+{
+  "name": "Actor",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "country": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "name"
+  ]
+}

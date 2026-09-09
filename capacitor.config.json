@@ -1,0 +1,6 @@
+{
+  "appId": "com.worldofbl.app",
+  "appName": "World of bl",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
